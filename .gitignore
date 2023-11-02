@@ -1,0 +1,15 @@
+node_modules
+bower_components
+.sass-cache
+
+*.log
+*.sql
+
+.idea
+.vscode
+*.iml
+
+.DS_Store
+Thumbs.db
+
+.cache
